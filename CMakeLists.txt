@@ -59,6 +59,7 @@ catkin_install_python(PROGRAMS
   scripts/start_talos_gazebo_kine.py
   scripts/start_sot_talos_balance.py
   scripts/start_sot_online_walking.py
+  scripts/start_sot_ouster_walking.py
   scripts/test_kine.py
   scripts/test_sot_talos_balance.py
   scripts/test_online_walking.py
